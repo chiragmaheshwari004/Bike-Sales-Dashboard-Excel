@@ -32,6 +32,13 @@ This project analyzes bike buyer data using Microsoft Excel. The dataset was cle
 - Slicers
 - Conditional Formatting
 
-## Project Files
-- Excel Project Dataset.xlsx
-- Dashboard Screenshots
+## Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/Bike_Sales_Dashboard.png)
+
+### Pivot Table Analysis
+![Pivot Table Analysis](Screenshots/Pivot_Table_Analysis.png)
+
+### Raw Dataset
+![Raw Dataset](Screenshots/Raw_Data_Bike_Buyers.png)
