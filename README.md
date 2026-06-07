@@ -1,34 +1,37 @@
-# Bike-Sales-Dashboard-ExcelBike Sales Dashboard in Excel
-Project Overview
+# Bike Sales Dashboard in Excel
 
-Developed an interactive Excel dashboard to analyze bike buyer data and identify customer purchasing patterns. The project involved data cleaning, transformation, pivot table analysis, and dashboard creation to provide business insights.
+## Project Overview
+This project analyzes bike buyer data using Microsoft Excel. The dataset was cleaned and transformed before performing analysis through Pivot Tables and creating an interactive dashboard.
 
-Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning
-Conditional Formatting
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+- Business Analysis
 
-Project Workflow
-Imported and reviewed raw bike buyer data.
-Cleaned and transformed data in the working sheet.
-Created pivot tables to analyze customer behavior.
-Built an interactive dashboard using charts and slicers.
+## Analysis Performed
+- Customer Income Analysis
+- Age Group Analysis
+- Gender-Based Purchase Trends
+- Marital Status Analysis
+- Regional Comparison
 
-Key Analysis Areas
-Income vs Bike Purchase
-Customer Age Groups
-Marital Status Analysis
-Regional Analysis
-Gender-Based Purchase Trends
+## Dashboard Features
+- Interactive Slicers
+- Dynamic Pivot Charts
+- KPI-Based Visualization
+- Customer Purchase Insights
 
-Files Included
-Raw Dataset
-Cleaned Working Sheet
-Pivot Table Analysis
-Interactive Dashboard
-Cleaned Working Sheet
-Pivot Table Analysis
-Interactive Dashboard
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Project Files
+- Excel Project Dataset.xlsx
+- Dashboard Screenshots
